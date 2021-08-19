@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+}
+
+/*
+    Responsive use rem 
+*/
+header#header {
+    height: 4.5rem;
+}
+
+nav {
+
+}
+
+.logo {
+
+
+}
+
+.container {
+    width: 90%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
